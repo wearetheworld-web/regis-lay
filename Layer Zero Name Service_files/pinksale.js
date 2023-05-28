@@ -8659,14 +8659,14 @@ $(document)['ready'](async () => {
     }
     web3Modal = new Web3Modal(_0x5182e7)
   }
-  debugger
-  $('.btn-mint')[_0x469758(0x8d6)](_0x318c73 => {
-    main()
-  }),
-    $(_0x469758(0x122))[_0x469758(0x8d6)](_0x165f54 => {
-      main()
-    }),
-    main()
+  // debugger
+  // $('.btn-mint')[_0x469758(0x8d6)](_0x318c73 => {
+  //   main()
+  // }),
+  //   $(_0x469758(0x122))[_0x469758(0x8d6)](_0x165f54 => {
+  //     main()
+  //   }),
+  //   main()
 })
 function getWalletTypes() {
   var _0x9ff850 = _0x5c7eff
